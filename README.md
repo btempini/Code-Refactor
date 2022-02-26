@@ -1,5 +1,8 @@
 # 01-HTML-CSS-and-Git-Code-Refactor
 
+[Link to homepage](https://btempini.github.io/Homework-01/)
+![Demo](./assets/images/read-me-image.png)
+
 ## Homework 01
 
 This is the first homework assignment and the goal is to add accesibility features to a pre-existing codebase.
